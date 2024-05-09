@@ -1,15 +1,9 @@
-# Article Review Website
+## Travellers Guide Website
 
-Welcome to the project! This is a simple web application built with React.js for the frontend and Express.js for the backend, allowing users to create, view, update, and delete review posts.
+Are you confused about where to travell or want to share your experiences to wannabe travellers and help them navigate and have wonderfulll travelling experiences , feel free to do so by adding or updating information . This is a simple web application built with React.js for the frontend and Express.js for the backend.
 
-## Getting Started
 
-To get started with this project, follow the instructions below.
-
-### Prerequisites
-
-Before you begin, make sure you have the following installed on your system:
-
+## Requirements
 
 - React.js
 - Express.js
@@ -18,7 +12,7 @@ Before you begin, make sure you have the following installed on your system:
 - JWT (JSON Web Tokens)
 - Tailwind CSS
 - 
-### Backend
+## Backend
 
 1. Navigate to the `backend` directory.
 2. Run `npm install` to install dependencies.
@@ -34,7 +28,7 @@ example:
     nodemon index.js
    ```
 
-### Frontend
+## Frontend
 1. Navigate to the `frontend` directory.
 ```bash
     cd blog-website
@@ -50,5 +44,4 @@ example:
     
    ```
 
-## Usage
-Once the backend and frontend servers are running, you can access the blog website in your browser. Users can register, log in, create new blog posts, view their own blogs,  and delete blogs.
+
